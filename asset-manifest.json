@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BilalMomand/newsapp.git/static/css/main.f855e6bc.css",
+    "main.js": "/BilalMomand/newsapp.git/static/js/main.d314db0f.js",
+    "static/js/592.d53f2e83.chunk.js": "/BilalMomand/newsapp.git/static/js/592.d53f2e83.chunk.js",
+    "index.html": "/BilalMomand/newsapp.git/index.html",
+    "main.f855e6bc.css.map": "/BilalMomand/newsapp.git/static/css/main.f855e6bc.css.map",
+    "main.d314db0f.js.map": "/BilalMomand/newsapp.git/static/js/main.d314db0f.js.map",
+    "592.d53f2e83.chunk.js.map": "/BilalMomand/newsapp.git/static/js/592.d53f2e83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.d314db0f.js"
+  ]
+}
